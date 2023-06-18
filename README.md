@@ -1,2 +1,2 @@
 # Juego_Ahorcado
-Juego realizado con HTML, CSS y Javascript
+Juego del ahorcado realizado con HTML, CSS y Javascript
